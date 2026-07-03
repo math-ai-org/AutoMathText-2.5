@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/Project-Website-green)](https://math-ai-org.github.io/AutoMathText-2.5/)
 [![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-blue)](https://huggingface.co/datasets/math-ai/AutoMathText-2.5)
 [![arXiv](https://img.shields.io/badge/arXiv-2402.07625-b31b1b.svg)](https://arxiv.org/abs/2402.07625)
-[![License](https://img.shields.io/badge/License-AutoMathText-lightgrey)](LICENSE)
+[![License](https://img.shields.io/badge/License-AutoMathText-yellow)](LICENSE)
 
 AutoMathText-2.5 is a foundational high-quality STEM training dataset released by Math-AI. It contains over 2 trillion tokens of deduplicated text spanning web content, mathematics, code, reasoning, and bilingual data.
 
