@@ -18,11 +18,11 @@ AutoMathText-2.5 is a foundational high-quality STEM training dataset released b
 
 ```bibtex
 @misc{automathtext_2_5,
-  title     = {AutoMathText-2.5: A Foundational High-Quality STEM Training Dataset},
-  author    = {Zhang, Yifan and Math-AI Team},
-  year      = {2026},
-  publisher = {Hugging Face},
-  url       = {https://huggingface.co/datasets/math-ai/AutoMathText-2.5}
+  title={AutoMathText-2.5: A Foundational High-Quality STEM Training Dataset},
+  author={Zhang, Yifan and Feng, Jichen and Math-AI, Team},
+  year={2026},
+  publisher={Hugging Face},
+  url={https://huggingface.co/datasets/math-ai/AutoMathText-2.5},
 }
 
 @article{zhang2025autonomous,
