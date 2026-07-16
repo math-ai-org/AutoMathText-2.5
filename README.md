@@ -9,7 +9,7 @@ AutoMathText-2.5 is a foundational high-quality STEM training dataset released b
 
 ## Links
 
-- Website: https://math-ai-org.github.io/AutoMathText-2.5/
+- Website: https://math-ai-org.github.io/AutoMathText-2.5 
 - Dataset: https://huggingface.co/datasets/math-ai/AutoMathText-2.5
 - Technical paper: https://arxiv.org/abs/2402.07625
 - License: [AutoMathText Data Agreement for Model Training](LICENSE)
